@@ -15,11 +15,11 @@ body {
 }
 
 a {
-  color: #4eb478;
+  color: #3145fa;
 }
 
 a:hover {
-  color: #72c393;
+  color: #3145fa;
   text-decoration: none;
 }
 
@@ -53,7 +53,7 @@ h1, h2, h3, h4, h5, h6 {
   width: 40px;
   height: 40px;
   border-radius: 4px;
-  background: #4eb478;
+  background: #3145fa;
   color: #fff;
   transition: all 0.4s;
 }
